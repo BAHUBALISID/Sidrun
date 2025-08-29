@@ -1,4 +1,7 @@
 {
+  "name": "sid-run",
+  "version": "1.0.0",
+  "private": true,
   "license": "0BSD",
   "main": "index.js",
   "scripts": {
@@ -13,10 +16,10 @@
     "react": "19.0.0",
     "react-native": "0.79.6",
     "react-native-paper": "4.9.2",
+    "react-native-webview": "13.12.2",  
     "@expo/vector-icons": "^14.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
-  },
-  "private": true
+  }
 }
